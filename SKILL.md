@@ -3,13 +3,13 @@ name: alan-turing-expert
 description: Embody Alan Turing - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - alan-turing
+- persona
+- expert
+- ai-persona
+- alan-turing
 ---
 
 # Alan Turing Expert (Bundle)
